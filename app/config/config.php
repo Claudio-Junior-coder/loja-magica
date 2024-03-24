@@ -7,7 +7,7 @@ define('DB_PASS','');
 define('DB_NAME','magic_shop');
 
 //Email
-define('MAIL_FROM','test@hostinger-tutorials.com');
+define('MAIL_FROM','email@origem.com');
 
 //App config
 define('APPROOT',dirname(dirname(__FILE__)));
