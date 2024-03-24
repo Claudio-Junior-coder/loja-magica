@@ -50,6 +50,10 @@ body {
     margin: 10px;
 }
 
+textarea {
+    max-width: 90%;
+}
+
 .flex {
     display: flex;
 }
