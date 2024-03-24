@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+    .title {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .menu {
+        flex-direction: column;
+    }
+  }
